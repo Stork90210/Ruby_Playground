@@ -1,0 +1,5 @@
+basecase fib(1) = 0
+basecase fib(2) = 1
+
+recurcive case
+fib(n) = fib(n-1) + fib(n-2)
